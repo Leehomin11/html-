@@ -1,0 +1,153 @@
+body {
+  background-image: url(bit.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+.whitebox {
+  margin-top: -20px;
+  margin-left: -8px;
+  width: 460px;
+  height: 770px;
+  background-color: white;
+}
+.text {
+  color: gray;
+  font-size: 21px;
+  padding-top: 72px;
+  padding-left: 275px;
+  text-align: center;
+}
+.Sign {
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding-left: 75px;
+  padding-top: 45px;
+}
+.user {
+  margin-left: 70px;
+  vertical-align: middle;
+  padding-left: 200px;
+  width: 300px;
+  height: 40px;
+  font-size: 10px;
+  border: 0;
+  border-radius: 3px;
+  outline: none;
+  padding-left: 10px;
+  margin-bottom: 20px;
+  background-color: rgb(233, 233, 233);
+}
+.pass {
+  margin-left: 70px;
+  vertical-align: middle;
+  padding-left: 200px;
+  width: 300px;
+  height: 40px;
+  font-size: 10px;
+  border: 0;
+  border-radius: 3px;
+  outline: none;
+  padding-left: 10px;
+  margin-bottom: 20px;
+  background-color: rgb(233, 233, 233);
+}
+.check {
+  margin-left: 70px;
+  float: left;
+}
+.staytext {
+  color: gray;
+}
+.bt_cont {
+  margin-top: 50px;
+  margin-left: 180px;
+}
+.ZzMfK:disabled {
+  background: transparent;
+  color: rgb(173, 173, 173);
+}
+.ZzMfK {
+  background: rgb(11, 196, 226);
+  display: block;
+  height: 72px;
+  border-radius: 27px;
+  padding: 0px;
+  color: rgb(10, 10, 10);
+  border: 2px solid rgba(173, 173, 173, 0.3);
+  font-size: 20px;
+  font-weight: 700;
+  cursor: not-allowed;
+  width: 72px;
+}
+button,
+input,
+select {
+  font: inherit;
+}
+button:disabled {
+  color: -internal-light-dark(rgba(16, 16, 16, 0.3), rgba(255, 255, 255, 0.3));
+}
+button {
+  font-style: ;
+  font-variant-ligatures: ;
+  font-variant-caps: ;
+  font-variant-numeric: ;
+  font-variant-east-asian: ;
+  font-variant-alternates: ;
+  font-variant-position: ;
+  font-weight: ;
+  font-stretch: ;
+  font-size: ;
+  font-family: ;
+  font-optical-sizing: ;
+  font-kerning: ;
+  font-feature-settings: ;
+  font-variation-settings: ;
+  text-rendering: auto;
+  color: buttontext;
+  letter-spacing: normal;
+  word-spacing: normal;
+  line-height: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  text-align: center;
+  cursor: default;
+  writing-mode: horizontal-tb !important;
+}
+.ZzMfK:disabled svg {
+  fill: rgb(173, 173, 173);
+}
+.hzOjdA {
+  fill: rgb(10, 10, 10);
+  width: 32px;
+  height: 32px;
+  inset: auto;
+}
+.idnFbI {
+  height: 24px;
+  width: 24px;
+  fill: inherit;
+}
+.create {
+  color: gray;
+  padding-top: 100px;
+  padding-left: 75px;
+}
+.cant {
+  color: gray;
+  padding-top: 10px;
+  padding-left: 75px;
+  float: left;
+}
+.a_t {
+  font-size: 15px;
+  text-decoration-line: none;
+}
+.version {
+  float: left;
+  font-size: 15px;
+  color: gray;
+  margin-left: 200px;
+}
